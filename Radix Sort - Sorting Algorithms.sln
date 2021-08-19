@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Radix Sort - Sorting Algorithms", "Radix Sort - Sorting Algorithms.pyproj", "{EEC4E663-2905-44A9-AB9B-DCF92B898BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC4E663-2905-44A9-AB9B-DCF92B898BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC4E663-2905-44A9-AB9B-DCF92B898BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8D4D825-B7C5-4C9A-9822-280723077380}
+	EndGlobalSection
+EndGlobal
